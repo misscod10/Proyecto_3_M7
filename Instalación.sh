@@ -2,7 +2,7 @@
 
 sudo apt-get update
 
-sudo apt-get install proftpd.conf
+sudo apt-get install proftpd
 
 sudo cp proftpd.conf /etc/proftpd/proftpd.conf
 sudo cp tls.conf /etc/proftpd/tls.conf
